@@ -26,6 +26,7 @@ SECRET_KEY = '6jwcwwxjj$@*-lo0l89cdacshkgts*8bgmx=a7wxl#c+)9v1)p'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+#APPEND_TRAILING_SLASH = False
 
 
 # Application definition
